@@ -1,0 +1,13 @@
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\bin\Debug\CNOV Framework.exe.config
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\bin\Debug\CNOV Framework.exe
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\bin\Debug\CNOV Framework.pdb
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV Framework.csprojAssemblyReference.cache
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV_Framework.Form1.resources
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV_Framework.Properties.Resources.resources
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV Framework.csproj.GenerateResource.cache
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV Framework.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV Framework.exe
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV Framework.pdb
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\obj\Debug\CNOV Framework.csproj.CopyComplete
+C:\Users\augus\source\repos\CNOV Framework\CNOV Framework\bin\Debug\WinFormAnimation.dll

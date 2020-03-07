@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNOV Framework", "CNOV Framework\CNOV Framework.csproj", "{951107E4-69B5-4DBD-A3AE-F7FA7A0C9044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951107E4-69B5-4DBD-A3AE-F7FA7A0C9044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951107E4-69B5-4DBD-A3AE-F7FA7A0C9044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951107E4-69B5-4DBD-A3AE-F7FA7A0C9044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951107E4-69B5-4DBD-A3AE-F7FA7A0C9044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E83EA3A-98ED-4634-86BA-3DAD73A9452A}
+	EndGlobalSection
+EndGlobal
